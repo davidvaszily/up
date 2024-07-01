@@ -5,12 +5,10 @@ repo: up # The name of this repository
 sites:
   - name: Furniturebox
     url: https://www.furniturebox.co.uk
-  - name: Google Ads
-    url: https://ads.google.com
+  - name: Google
+    url: https://www.google.com
   - name: Facebook
     url: https://www.facebook.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   
 
 status-website:
