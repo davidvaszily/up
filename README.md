@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://www.furniturebox.co.uk)
+[**Visit our status website →**](https://davidvaszily.github.io/up/)
 
 ## 📄 License
 
