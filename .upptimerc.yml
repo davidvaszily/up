@@ -5,10 +5,35 @@ repo: up # The name of this repository
 sites:
   - name: Furniturebox
     url: https://www.furniturebox.co.uk
-  - name: Google
-    url: https://www.google.com
+ 
+  - name: Amazon UK
+    url: https://www.amazon.co.uk
+  - name: Amazon US
+    url: https://www.amazon.com 
+  - name: B&Q
+    url: https://www.diy.com
+  - name: Debenhams
+    url: https://www.debenhams.com
+  - name: eBay UK
+    url: https://www.ebay.co.uk
   - name: Facebook
     url: https://www.facebook.com
+  - name: Google
+    url: https://www.google.com
+  - name: Instagram
+    url: https://www.instagram.com
+  - name: Pinterest UK
+    url: https://www.pinterest.co.uk
+  - name: Robert Dyas
+    url: https://www.robertdyas.co.uk
+  - name: The Range
+    url: https://www.therange.co.uk
+  - name: TikTok
+    url: https://www.tiktok.com
+  - name: Wayfair UK
+    url: https://www.wayfair.co.uk
+  - name: Wayfair US
+    url: https://www.wayfair.com
   
 
 status-website:
