@@ -25,8 +25,8 @@ sites:
     url: https://www.pinterest.co.uk
   - name: Robert Dyas
     url: https://www.robertdyas.co.uk
-#  - name: The Range
-#    url: https://www.therange.co.uk
+  - name: The Range
+    url: https://www.therange.co.uk
   - name: TikTok
     url: https://www.tiktok.com
   - name: Wayfair UK
