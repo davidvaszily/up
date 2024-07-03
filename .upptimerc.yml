@@ -5,7 +5,6 @@ repo: up # The name of this repository
 sites:
   - name: Furniturebox
     url: https://www.furniturebox.co.uk
- 
   - name: Amazon UK
     url: https://www.amazon.co.uk
   - name: Amazon US
@@ -26,8 +25,8 @@ sites:
     url: https://www.pinterest.co.uk
   - name: Robert Dyas
     url: https://www.robertdyas.co.uk
-  - name: The Range
-    url: https://www.therange.co.uk
+#  - name: The Range
+#    url: https://www.therange.co.uk
   - name: TikTok
     url: https://www.tiktok.com
   - name: Wayfair UK
