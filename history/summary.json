@@ -238,35 +238,39 @@
     "url": "https://www.wayfair.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.wayfair.co.uk.ico",
     "slug": "wayfair-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 769,
-    "timeWeek": 794,
-    "timeMonth": 839,
-    "timeYear": 839,
-    "dailyMinutesDown": {}
+    "time": 815,
+    "timeDay": 567,
+    "timeWeek": 755,
+    "timeMonth": 815,
+    "timeYear": 815,
+    "dailyMinutesDown": {
+      "2024-07-14": 0
+    }
   },
   {
     "name": "Wayfair US",
     "url": "https://www.wayfair.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wayfair.com.ico",
     "slug": "wayfair-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 389,
-    "timeWeek": 461,
-    "timeMonth": 524,
-    "timeYear": 524,
-    "dailyMinutesDown": {}
+    "time": 510,
+    "timeDay": 313,
+    "timeWeek": 440,
+    "timeMonth": 510,
+    "timeYear": 510,
+    "dailyMinutesDown": {
+      "2024-07-14": 0
+    }
   }
 ]
