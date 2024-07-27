@@ -168,18 +168,20 @@
     "url": "https://www.pinterest.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.pinterest.co.uk.ico",
     "slug": "pinterest-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 362,
-    "timeWeek": 366,
-    "timeMonth": 466,
-    "timeYear": 466,
-    "dailyMinutesDown": {}
+    "time": 455,
+    "timeDay": 245,
+    "timeWeek": 337,
+    "timeMonth": 455,
+    "timeYear": 455,
+    "dailyMinutesDown": {
+      "2024-07-27": 0
+    }
   },
   {
     "name": "Robert Dyas",
@@ -248,7 +250,7 @@
     "uptimeYear": "99.96%",
     "time": 770,
     "timeDay": 704,
-    "timeWeek": 709,
+    "timeWeek": 760,
     "timeMonth": 770,
     "timeYear": 770,
     "dailyMinutesDown": {
@@ -268,7 +270,7 @@
     "uptimeYear": "99.96%",
     "time": 528,
     "timeDay": 684,
-    "timeWeek": 428,
+    "timeWeek": 464,
     "timeMonth": 528,
     "timeYear": 528,
     "dailyMinutesDown": {
