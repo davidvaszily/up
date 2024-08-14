@@ -4,19 +4,19 @@
     "url": "https://www.furniturebox.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.furniturebox.co.uk.ico",
     "slug": "furniturebox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 3734,
-    "timeWeek": 1496,
-    "timeMonth": 776,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 695,
+    "timeDay": 2636,
+    "timeWeek": 1379,
+    "timeMonth": 765,
+    "timeYear": 695,
     "dailyMinutesDown": {
-      "2024-08-14": 0
+      "2024-08-14": 10
     }
   },
   {
