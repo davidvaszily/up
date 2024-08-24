@@ -1,7 +1,7 @@
 url: https://www.wayfair.com
-status: down
-code: 429
-responseTime: 110
-lastUpdated: 2024-08-24T02:54:58.069Z
+status: up
+code: 200
+responseTime: 617
+lastUpdated: 2024-08-24T03:11:19.469Z
 startTime: 2024-07-03T09:15:55.237Z
 generator: Upptime <https://github.com/upptime/upptime>
