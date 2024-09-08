@@ -1,7 +1,7 @@
 url: https://www.wayfair.de
-status: down
-code: 429
-responseTime: 245
-lastUpdated: 2024-09-08T23:21:40.992Z
+status: up
+code: 200
+responseTime: 1431
+lastUpdated: 2024-09-08T23:29:40.119Z
 startTime: 2024-07-12T15:50:24.767Z
 generator: Upptime <https://github.com/upptime/upptime>
