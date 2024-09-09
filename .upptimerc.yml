@@ -29,12 +29,12 @@ sites:
 #    url: https://www.therange.co.uk
   - name: TikTok
     url: https://www.tiktok.com
-  - name: Wayfair DE
-    url: https://www.wayfair.de
-  - name: Wayfair UK
-    url: https://www.wayfair.co.uk
-  - name: Wayfair US
-    url: https://www.wayfair.com
+#  - name: Wayfair DE
+#    url: https://www.wayfair.de
+#  - name: Wayfair UK
+#    url: https://www.wayfair.co.uk
+#  - name: Wayfair US
+#    url: https://www.wayfair.com
   
 
 status-website:
