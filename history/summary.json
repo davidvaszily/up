@@ -116,9 +116,9 @@
     "url": "https://www.facebook.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,7 +127,9 @@
     "timeWeek": 582,
     "timeMonth": 545,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   },
   {
     "name": "Google",
