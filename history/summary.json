@@ -98,8 +98,8 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "up",
-    "uptime": "99.99%",
+    "status": "down",
+    "uptime": "100.02%",
     "uptimeDay": "98.63%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
@@ -110,6 +110,7 @@
     "timeMonth": 743,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2024-11-03": -60,
       "2024-11-02": 20
     }
   },
