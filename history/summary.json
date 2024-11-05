@@ -203,18 +203,20 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 156,
-    "timeWeek": 187,
-    "timeMonth": 866,
-    "timeYear": 425,
-    "dailyMinutesDown": {}
+    "time": 423,
+    "timeDay": 154,
+    "timeWeek": 182,
+    "timeMonth": 843,
+    "timeYear": 423,
+    "dailyMinutesDown": {
+      "2024-11-05": 0
+    }
   },
   {
     "name": "TikTok",
