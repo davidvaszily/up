@@ -71,7 +71,7 @@
     "time": 1251,
     "timeDay": 1358,
     "timeWeek": 1103,
-    "timeMonth": 1207,
+    "timeMonth": 1156,
     "timeYear": 1251,
     "dailyMinutesDown": {
       "2024-07-18": 21
@@ -161,9 +161,9 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,7 +172,9 @@
     "timeWeek": 418,
     "timeMonth": 575,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "Pinterest UK",
