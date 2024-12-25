@@ -213,18 +213,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
     "status": "down",
-    "uptime": "90.84%",
+    "uptime": "90.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.72%",
-    "uptimeYear": "90.84%",
+    "uptimeMonth": "46.86%",
+    "uptimeYear": "90.55%",
     "time": 359,
     "timeDay": 270,
     "timeWeek": 150,
     "timeMonth": 206,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2024-12-25": 99,
+      "2024-12-25": 914,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -249,9 +249,9 @@
     "url": "https://www.tiktok.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiktok.com.ico",
     "slug": "tik-tok",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -261,6 +261,7 @@
     "timeMonth": 788,
     "timeYear": 616,
     "dailyMinutesDown": {
+      "2024-12-25": 0,
       "2024-09-12": 17
     }
   }
