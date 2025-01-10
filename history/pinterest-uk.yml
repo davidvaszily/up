@@ -1,7 +1,7 @@
 url: https://www.pinterest.co.uk
-status: up
-code: 200
-responseTime: 719
-lastUpdated: 2025-01-10T23:19:20.783Z
+status: down
+code: 429
+responseTime: 107
+lastUpdated: 2025-01-10T23:36:37.446Z
 startTime: 2024-07-03T09:15:44.194Z
 generator: Upptime <https://github.com/upptime/upptime>
