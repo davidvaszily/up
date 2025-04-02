@@ -1,7 +1,7 @@
 url: https://www.instagram.com
-status: up
-code: 200
-responseTime: 1019
-lastUpdated: 2025-04-02T14:46:04.439Z
+status: down
+code: 429
+responseTime: 649
+lastUpdated: 2025-04-02T14:54:25.627Z
 startTime: 2024-07-03T09:15:42.435Z
 generator: Upptime <https://github.com/upptime/upptime>
