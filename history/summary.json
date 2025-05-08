@@ -108,19 +108,19 @@
     "url": "https://www.debenhams.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "71.95%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "99.08%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.91%",
-    "time": 668,
-    "timeDay": 218,
-    "timeWeek": 404,
-    "timeMonth": 512,
-    "timeYear": 668,
+    "time": 670,
+    "timeDay": 284,
+    "timeWeek": 447,
+    "timeMonth": 532,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-05-08": 405
+      "2025-05-08": 413
     }
   },
   {
@@ -292,7 +292,7 @@
     "timeMonth": 131,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-05-08": 1430,
+      "2025-05-08": 1438,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
