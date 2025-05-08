@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "95.89%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.32%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
     "time": 689,
     "timeDay": 180,
     "timeWeek": 662,
     "timeMonth": 634,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-05-08": 59
+      "2025-05-08": 67
     }
   },
   {
@@ -191,17 +191,17 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "94.95%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "94.93%",
     "uptimeWeek": "93.67%",
     "uptimeMonth": "94.38%",
-    "uptimeYear": "99.36%",
-    "time": 579,
-    "timeDay": 578,
-    "timeWeek": 609,
-    "timeMonth": 567,
-    "timeYear": 579,
+    "uptimeYear": "99.37%",
+    "time": 578,
+    "timeDay": 546,
+    "timeWeek": 607,
+    "timeMonth": 566,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-05-08": 72,
       "2025-05-07": 79,
@@ -233,8 +233,7 @@
       "2025-04-09": 39,
       "2025-04-08": 190,
       "2025-04-07": 112,
-      "2025-04-06": 82,
-      "2025-04-05": 19
+      "2025-04-06": 82
     }
   },
   {
@@ -293,7 +292,7 @@
     "timeMonth": 136,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-05-08": 947,
+      "2025-05-08": 955,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
