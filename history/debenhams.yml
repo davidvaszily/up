@@ -1,7 +1,7 @@
 url: https://www.debenhams.com
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 179
-lastUpdated: 2025-05-09T05:33:54.210Z
+lastUpdated: 2025-05-09T05:45:37.771Z
 startTime: 2024-07-03T09:15:36.042Z
 generator: Upptime <https://github.com/upptime/upptime>
