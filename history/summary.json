@@ -110,9 +110,9 @@
     "slug": "debenhams",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "42.00%",
-    "uptimeWeek": "91.71%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "41.43%",
+    "uptimeWeek": "91.63%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.81%",
     "time": 648,
     "timeDay": 249,
@@ -120,7 +120,7 @@
     "timeMonth": 448,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2025-05-09": 431,
+      "2025-05-09": 440,
       "2025-05-08": 405
     }
   },
@@ -192,18 +192,19 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "95.67%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "95.65%",
     "uptimeWeek": "94.73%",
-    "uptimeMonth": "94.47%",
-    "uptimeYear": "99.36%",
+    "uptimeMonth": "94.46%",
+    "uptimeYear": "99.37%",
     "time": 579,
-    "timeDay": 638,
-    "timeWeek": 624,
+    "timeDay": 622,
+    "timeWeek": 623,
     "timeMonth": 567,
     "timeYear": 579,
     "dailyMinutesDown": {
+      "2025-05-09": 0,
       "2025-05-08": 94,
       "2025-05-07": 79,
       "2025-05-06": 27,
@@ -234,7 +235,7 @@
       "2025-04-09": 39,
       "2025-04-08": 190,
       "2025-04-07": 112,
-      "2025-04-06": 82
+      "2025-04-06": 45
     }
   },
   {
@@ -293,7 +294,7 @@
     "timeMonth": 131,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-05-09": 705,
+      "2025-05-09": 713,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
