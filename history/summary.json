@@ -113,12 +113,12 @@
     "status": "up",
     "uptime": "98.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.89%",
+    "uptimeWeek": "38.06%",
     "uptimeMonth": "82.93%",
     "uptimeYear": "98.36%",
     "time": 513,
     "timeDay": 296,
-    "timeWeek": 260,
+    "timeWeek": 262,
     "timeMonth": 284,
     "timeYear": 513,
     "dailyMinutesDown": {
@@ -200,14 +200,14 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "81.48%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "81.46%",
     "uptimeWeek": "92.64%",
     "uptimeMonth": "93.86%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.40%",
     "time": 579,
-    "timeDay": 559,
+    "timeDay": 550,
     "timeWeek": 576,
     "timeMonth": 575,
     "timeYear": 579,
@@ -242,7 +242,7 @@
       "2025-04-18": 75,
       "2025-04-17": 49,
       "2025-04-16": 53,
-      "2025-04-14": 138
+      "2025-04-14": 17
     }
   },
   {
@@ -301,7 +301,7 @@
     "timeMonth": 132,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2025-05-16": 1154,
+      "2025-05-16": 1183,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
