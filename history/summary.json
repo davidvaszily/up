@@ -6,17 +6,17 @@
     "slug": "furniturebox",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 410,
+    "time": 409,
     "timeDay": 246,
     "timeWeek": 266,
     "timeMonth": 267,
-    "timeYear": 354,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-12-05": 0,
+      "2025-12-05": 19,
       "2025-07-18": 22,
       "2025-06-06": 28
     }
@@ -76,7 +76,7 @@
     "timeMonth": 428,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2025-12-05": 534,
+      "2025-12-05": 553,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -510,7 +510,7 @@
     "timeMonth": 140,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-12-05": 534,
+      "2025-12-05": 553,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
