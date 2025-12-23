@@ -76,7 +76,7 @@
     "timeMonth": 459,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2025-12-23": 960,
+      "2025-12-23": 991,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -530,7 +530,7 @@
     "timeMonth": 171,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-12-23": 960,
+      "2025-12-23": 992,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
@@ -902,19 +902,19 @@
     "url": "https://www.tiktok.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiktok.com.ico",
     "slug": "tik-tok",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 675,
-    "timeDay": 9153,
-    "timeWeek": 2912,
-    "timeMonth": 1281,
-    "timeYear": 692,
+    "timeDay": 6238,
+    "timeWeek": 2634,
+    "timeMonth": 1254,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2025-12-23": 1,
+      "2025-12-23": 31,
       "2025-03-09": 17
     }
   }
