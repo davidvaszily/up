@@ -76,7 +76,7 @@
     "timeMonth": 468,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2026-01-30": 686,
+      "2026-01-30": 721,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -453,16 +453,16 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "94.87%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.43%",
     "time": 569,
-    "timeDay": 466,
-    "timeWeek": 527,
-    "timeMonth": 508,
+    "timeDay": 413,
+    "timeWeek": 506,
+    "timeMonth": 503,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2026-01-30": 74,
@@ -524,7 +524,7 @@
       "2025-05-24": 28,
       "2025-05-20": 29,
       "2025-05-19": 120,
-      "2025-05-18": 89
+      "2025-05-18": 60
     }
   },
   {
@@ -571,7 +571,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
     "status": "down",
-    "uptime": "27.55%",
+    "uptime": "27.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -582,7 +582,7 @@
     "timeMonth": 159,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2026-01-30": 687,
+      "2026-01-30": 722,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
