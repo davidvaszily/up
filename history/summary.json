@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "52.13%",
+    "uptime": "52.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.41%",
+    "uptimeYear": "9.35%",
     "time": 766,
     "timeDay": 42,
     "timeWeek": 29,
     "timeMonth": 181,
-    "timeYear": 638,
+    "timeYear": 637,
     "dailyMinutesDown": {
       "2025-06-03": 166,
       "2025-06-02": 97,
@@ -217,7 +217,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1024,
-      "2026-05-27": 1154,
+      "2026-05-27": 1431,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -472,13 +472,13 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.77%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "99.46%",
     "time": 838,
     "timeDay": 1098,
     "timeWeek": 892,
     "timeMonth": 898,
-    "timeYear": 872,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2025-07-27": 30,
       "2025-07-29": 32,
@@ -502,7 +502,7 @@
     "timeDay": 491,
     "timeWeek": 474,
     "timeMonth": 582,
-    "timeYear": 438,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2025-07-06": 16,
       "2026-01-08": 29
@@ -550,7 +550,7 @@
     "timeDay": 576,
     "timeWeek": 729,
     "timeMonth": 727,
-    "timeYear": 564,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-06-26": 28,
       "2025-06-27": 25,
@@ -657,15 +657,15 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
-    "uptime": "24.32%",
-    "uptimeDay": "79.57%",
-    "uptimeWeek": "52.03%",
+    "status": "up",
+    "uptime": "24.31%",
+    "uptimeDay": "73.83%",
+    "uptimeWeek": "51.18%",
     "uptimeMonth": "34.08%",
     "uptimeYear": "2.73%",
     "time": 165,
-    "timeDay": 155,
-    "timeWeek": 94,
+    "timeDay": 132,
+    "timeWeek": 96,
     "timeMonth": 144,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -1033,7 +1033,7 @@
       "2026-05-24": 1068,
       "2026-05-25": 998,
       "2026-05-26": 601,
-      "2026-05-27": 100
+      "2026-05-27": 377
     }
   },
   {
@@ -1051,7 +1051,7 @@
     "timeDay": 452,
     "timeWeek": 336,
     "timeMonth": 485,
-    "timeYear": 688,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-12-23": 31,
       "2026-01-25": 41
