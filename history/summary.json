@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "51.30%",
+    "uptime": "51.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.36%",
+    "uptimeYear": "6.33%",
     "time": 740,
     "timeDay": 28,
     "timeWeek": 32,
@@ -212,7 +212,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1024,
-      "2026-06-08": 119,
+      "2026-06-08": 281,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -424,11 +424,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.36%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "99.54%",
     "time": 562,
     "timeDay": 184,
     "timeWeek": 695,
@@ -470,7 +470,7 @@
       "2026-03-27": 49,
       "2026-06-04": 699,
       "2026-06-07": 109,
-      "2026-06-08": 1
+      "2026-06-08": 162
     }
   },
   {
@@ -671,7 +671,7 @@
     "uptime": "24.54%",
     "uptimeDay": "24.28%",
     "uptimeWeek": "20.86%",
-    "uptimeMonth": "41.49%",
+    "uptimeMonth": "41.12%",
     "uptimeYear": "3.90%",
     "time": 159,
     "timeDay": 78,
@@ -1043,7 +1043,7 @@
       "2026-06-04": 1440,
       "2026-06-07": 1090,
       "2026-06-06": 1440,
-      "2026-06-08": 120
+      "2026-06-08": 281
     }
   },
   {
