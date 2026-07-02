@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "49.62%",
+    "uptime": "49.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -210,8 +210,8 @@
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
-      "2025-07-02": 1440,
-      "2026-07-01": 1311,
+      "2026-07-02": 6,
+      "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -538,7 +538,7 @@
     "timeDay": 696,
     "timeWeek": 709,
     "timeMonth": 582,
-    "timeYear": 450,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2025-07-06": 16,
       "2026-01-08": 29
@@ -659,7 +659,7 @@
     "timeDay": 653,
     "timeWeek": 451,
     "timeMonth": 480,
-    "timeYear": 556,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2025-07-06": 78,
       "2025-07-08": 20,
@@ -687,16 +687,16 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
-    "uptime": "96.07%",
-    "uptimeDay": "32.05%",
-    "uptimeWeek": "31.16%",
-    "uptimeMonth": "30.20%",
-    "uptimeYear": "92.16%",
+    "status": "up",
+    "uptime": "96.06%",
+    "uptimeDay": "27.43%",
+    "uptimeWeek": "30.84%",
+    "uptimeMonth": "30.06%",
+    "uptimeYear": "92.13%",
     "time": 151,
-    "timeDay": 193,
-    "timeWeek": 152,
-    "timeMonth": 95,
+    "timeDay": 237,
+    "timeWeek": 160,
+    "timeMonth": 97,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2026-05-16": 434,
@@ -745,7 +745,8 @@
       "2026-06-28": 1267,
       "2026-06-29": 685,
       "2026-06-30": 664,
-      "2026-07-01": 917
+      "2026-07-01": 1045,
+      "2026-07-02": 5
     }
   },
   {
