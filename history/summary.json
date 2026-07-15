@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "48.74%",
+    "uptime": "48.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -197,7 +197,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2026-07-15": 171,
+      "2026-07-15": 230,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -682,15 +682,15 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
-    "uptime": "96.04%",
-    "uptimeDay": "41.81%",
-    "uptimeWeek": "45.12%",
+    "status": "up",
+    "uptime": "96.03%",
+    "uptimeDay": "40.13%",
+    "uptimeWeek": "45.09%",
     "uptimeMonth": "38.19%",
-    "uptimeYear": "91.95%",
+    "uptimeYear": "91.93%",
     "time": 146,
     "timeDay": 164,
-    "timeWeek": 132,
+    "timeWeek": 126,
     "timeMonth": 120,
     "timeYear": 145,
     "dailyMinutesDown": {
@@ -739,7 +739,7 @@
       "2026-07-12": 762,
       "2026-07-13": 784,
       "2026-07-14": 884,
-      "2026-07-15": 122
+      "2026-07-15": 180
     }
   },
   {
