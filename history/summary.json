@@ -195,7 +195,7 @@
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
-      "2026-07-17": 1346,
+      "2026-07-17": 1401,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -680,15 +680,15 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
+    "status": "up",
     "uptime": "96.62%",
-    "uptimeDay": "48.10%",
-    "uptimeWeek": "43.36%",
-    "uptimeMonth": "39.70%",
-    "uptimeYear": "93.11%",
+    "uptimeDay": "48.13%",
+    "uptimeWeek": "42.83%",
+    "uptimeMonth": "39.64%",
+    "uptimeYear": "93.10%",
     "time": 146,
-    "timeDay": 119,
-    "timeWeek": 140,
+    "timeDay": 113,
+    "timeWeek": 129,
     "timeMonth": 121,
     "timeYear": 144,
     "dailyMinutesDown": {
@@ -731,7 +731,7 @@
       "2026-07-14": 884,
       "2026-07-15": 1119,
       "2026-07-16": 727,
-      "2026-07-17": 653
+      "2026-07-17": 708
     }
   },
   {
