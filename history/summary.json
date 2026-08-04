@@ -6,10 +6,10 @@
     "slug": "furniturebox",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 286,
     "timeDay": 180,
     "timeWeek": 188,
@@ -17,7 +17,7 @@
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-12-05": 19,
-      "2026-08-04": 0
+      "2026-08-04": 57
     }
   },
   {
@@ -177,7 +177,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2026-08-04": 1309,
+      "2026-08-04": 1366,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -448,7 +448,7 @@
     "status": "up",
     "uptime": "97.69%",
     "uptimeDay": "94.07%",
-    "uptimeWeek": "45.80%",
+    "uptimeWeek": "46.36%",
     "uptimeMonth": "58.16%",
     "uptimeYear": "95.91%",
     "time": 673,
@@ -679,20 +679,20 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "up",
+    "status": "down",
     "uptime": "97.12%",
-    "uptimeDay": "19.66%",
-    "uptimeWeek": "16.75%",
-    "uptimeMonth": "32.93%",
-    "uptimeYear": "93.97%",
+    "uptimeDay": "23.56%",
+    "uptimeWeek": "17.29%",
+    "uptimeMonth": "33.06%",
+    "uptimeYear": "93.99%",
     "time": 148,
-    "timeDay": 214,
-    "timeWeek": 103,
-    "timeMonth": 143,
+    "timeDay": 174,
+    "timeWeek": 101,
+    "timeMonth": 142,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2026-07-02": 358,
       "2026-07-03": 846,
+      "2026-07-02": 253,
       "2026-07-04": 1225,
       "2026-07-05": 731,
       "2026-07-06": 593,
@@ -724,7 +724,7 @@
       "2026-08-01": 1270,
       "2026-08-03": 1368,
       "2026-08-02": 1440,
-      "2026-08-04": 1027
+      "2026-08-04": 1028
     }
   },
   {
