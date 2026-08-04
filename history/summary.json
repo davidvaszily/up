@@ -5,19 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.furniturebox.co.uk.ico",
     "slug": "furniturebox",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.99%",
-    "time": 286,
+    "uptime": "99.98%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.97%",
+    "time": 285,
     "timeDay": 180,
     "timeWeek": 188,
     "timeMonth": 239,
     "timeYear": 286,
     "dailyMinutesDown": {
       "2025-12-05": 19,
-      "2026-08-04": 57
+      "2026-08-04": 115
     }
   },
   {
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "47.41%",
+    "uptime": "47.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -177,7 +177,7 @@
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
-      "2026-08-04": 1366,
+      "2026-08-04": 1425,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -448,14 +448,14 @@
     "status": "up",
     "uptime": "97.69%",
     "uptimeDay": "94.07%",
-    "uptimeWeek": "46.36%",
+    "uptimeWeek": "46.94%",
     "uptimeMonth": "58.16%",
     "uptimeYear": "95.91%",
     "time": 673,
     "timeDay": 1210,
     "timeWeek": 1181,
     "timeMonth": 2008,
-    "timeYear": 690,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2025-08-06": 69,
       "2025-08-08": 45,
@@ -516,7 +516,7 @@
     "timeDay": 994,
     "timeWeek": 1008,
     "timeMonth": 1142,
-    "timeYear": 928,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2026-04-28": 1131,
       "2026-04-27": 1440,
@@ -538,7 +538,7 @@
     "timeDay": 687,
     "timeWeek": 574,
     "timeMonth": 604,
-    "timeYear": 464,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2026-01-08": 29
     }
@@ -650,7 +650,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 549,
+    "time": 545,
     "timeDay": 821,
     "timeWeek": 654,
     "timeMonth": 572,
@@ -682,12 +682,12 @@
     "status": "down",
     "uptime": "97.12%",
     "uptimeDay": "23.56%",
-    "uptimeWeek": "17.29%",
+    "uptimeWeek": "16.73%",
     "uptimeMonth": "33.06%",
-    "uptimeYear": "93.99%",
+    "uptimeYear": "93.98%",
     "time": 148,
     "timeDay": 174,
-    "timeWeek": 101,
+    "timeWeek": 103,
     "timeMonth": 142,
     "timeYear": 146,
     "dailyMinutesDown": {
@@ -724,7 +724,7 @@
       "2026-08-01": 1270,
       "2026-08-03": 1368,
       "2026-08-02": 1440,
-      "2026-08-04": 1028
+      "2026-08-04": 1086
     }
   },
   {
