@@ -175,7 +175,7 @@
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
-      "2026-08-06": 191,
+      "2026-08-06": 255,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
@@ -445,17 +445,17 @@
     "url": "https://www.debenhams.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "63.28%",
+    "status": "down",
+    "uptime": "97.70%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "63.90%",
     "uptimeMonth": "58.16%",
     "uptimeYear": "95.91%",
     "time": 673,
-    "timeDay": 289,
-    "timeWeek": 1230,
-    "timeMonth": 1798,
-    "timeYear": 691,
+    "timeDay": 162,
+    "timeWeek": 1130,
+    "timeMonth": 1750,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-08-08": 45,
       "2025-08-09": 43,
@@ -497,7 +497,8 @@
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 34,
-      "2026-08-04": 85
+      "2026-08-04": 85,
+      "2026-08-06": 1
     }
   },
   {
@@ -680,10 +681,10 @@
     "slug": "robert-dyas",
     "status": "down",
     "uptime": "97.11%",
-    "uptimeDay": "21.76%",
+    "uptimeDay": "17.35%",
     "uptimeWeek": "17.24%",
-    "uptimeMonth": "32.00%",
-    "uptimeYear": "93.96%",
+    "uptimeMonth": "31.86%",
+    "uptimeYear": "93.95%",
     "time": 148,
     "timeDay": 75,
     "timeWeek": 108,
@@ -723,7 +724,7 @@
       "2026-08-02": 1440,
       "2026-08-04": 1101,
       "2026-08-05": 1005,
-      "2026-08-06": 189
+      "2026-08-06": 252
     }
   },
   {
