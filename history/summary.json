@@ -166,7 +166,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2026-08-15": 856,
+      "2026-08-15": 882,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -501,24 +501,24 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "52.90%",
-    "uptimeWeek": "88.13%",
-    "uptimeMonth": "97.27%",
+    "uptimeDay": "52.05%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.24%",
     "time": 854,
-    "timeDay": 711,
-    "timeWeek": 721,
-    "timeMonth": 900,
-    "timeYear": 896,
+    "timeDay": 735,
+    "timeWeek": 723,
+    "timeMonth": 898,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2026-04-28": 1131,
       "2026-04-27": 1440,
       "2026-04-26": 212,
       "2026-08-13": 89,
       "2026-08-14": 734,
-      "2026-08-15": 374
+      "2026-08-15": 400
     }
   },
   {
@@ -680,8 +680,8 @@
     "uptime": "97.12%",
     "uptimeDay": "7.63%",
     "uptimeWeek": "18.43%",
-    "uptimeMonth": "26.79%",
-    "uptimeYear": "93.90%",
+    "uptimeMonth": "26.73%",
+    "uptimeYear": "93.89%",
     "time": 148,
     "timeDay": 66,
     "timeWeek": 149,
@@ -718,7 +718,7 @@
       "2026-08-12": 1142,
       "2026-08-13": 1063,
       "2026-08-14": 1364,
-      "2026-08-15": 773
+      "2026-08-15": 799
     }
   },
   {
