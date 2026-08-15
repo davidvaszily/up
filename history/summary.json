@@ -166,7 +166,7 @@
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
-      "2026-08-15": 238,
+      "2026-08-15": 272,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -446,7 +446,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "57.69%",
@@ -501,24 +501,24 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "52.10%",
+    "uptimeDay": "54.40%",
     "uptimeWeek": "91.46%",
-    "uptimeMonth": "98.04%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.31%",
-    "time": 889,
-    "timeDay": 978,
-    "timeWeek": 916,
-    "timeMonth": 1062,
-    "timeYear": 916,
+    "time": 887,
+    "timeDay": 927,
+    "timeWeek": 884,
+    "timeMonth": 1042,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2026-04-28": 1131,
       "2026-04-27": 1440,
       "2026-04-26": 212,
       "2026-08-13": 89,
       "2026-08-14": 734,
-      "2026-08-15": 39
+      "2026-08-15": 40
     }
   },
   {
@@ -680,7 +680,7 @@
     "uptime": "97.09%",
     "uptimeDay": "5.25%",
     "uptimeWeek": "17.98%",
-    "uptimeMonth": "26.13%",
+    "uptimeMonth": "26.05%",
     "uptimeYear": "93.84%",
     "time": 148,
     "timeDay": 98,
@@ -719,7 +719,7 @@
       "2026-08-12": 1142,
       "2026-08-13": 1063,
       "2026-08-14": 1364,
-      "2026-08-15": 239
+      "2026-08-15": 272
     }
   },
   {
