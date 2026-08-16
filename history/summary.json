@@ -165,7 +165,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2026-08-16": 1081,
+      "2026-08-16": 1119,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -502,12 +502,12 @@
     "slug": "e-bay-uk",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "52.21%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "95.44%",
+    "uptimeDay": "53.67%",
+    "uptimeWeek": "80.30%",
+    "uptimeMonth": "95.47%",
     "uptimeYear": "99.09%",
     "time": 839,
-    "timeDay": 567,
+    "timeDay": 582,
     "timeWeek": 639,
     "timeMonth": 765,
     "timeYear": 864,
@@ -518,7 +518,7 @@
       "2026-08-13": 89,
       "2026-08-14": 734,
       "2026-08-15": 699,
-      "2026-08-16": 476
+      "2026-08-16": 466
     }
   },
   {
@@ -677,17 +677,17 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
+    "status": "up",
     "uptime": "97.09%",
-    "uptimeDay": "19.86%",
+    "uptimeDay": "19.89%",
     "uptimeWeek": "19.05%",
-    "uptimeMonth": "25.91%",
+    "uptimeMonth": "25.82%",
     "uptimeYear": "93.82%",
-    "time": 147,
-    "timeDay": 94,
-    "timeWeek": 129,
-    "timeMonth": 151,
-    "timeYear": 141,
+    "time": 148,
+    "timeDay": 143,
+    "timeWeek": 140,
+    "timeMonth": 155,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2026-07-18": 572,
       "2026-07-19": 1059,
@@ -718,7 +718,7 @@
       "2026-08-13": 1063,
       "2026-08-14": 1364,
       "2026-08-15": 1237,
-      "2026-08-16": 888
+      "2026-08-16": 925
     }
   },
   {
