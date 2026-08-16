@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "46.69%",
+    "uptime": "46.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -165,7 +165,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2026-08-16": 1033,
+      "2026-08-16": 1054,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -500,15 +500,15 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "52.22%",
-    "uptimeWeek": "80.50%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "52.26%",
+    "uptimeWeek": "80.30%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "99.09%",
     "time": 840,
-    "timeDay": 575,
-    "timeWeek": 641,
+    "timeDay": 579,
+    "timeWeek": 642,
     "timeMonth": 769,
     "timeYear": 865,
     "dailyMinutesDown": {
@@ -518,7 +518,7 @@
       "2026-08-13": 89,
       "2026-08-14": 734,
       "2026-08-15": 699,
-      "2026-08-16": 446
+      "2026-08-16": 466
     }
   },
   {
@@ -677,16 +677,16 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
+    "status": "up",
     "uptime": "97.08%",
-    "uptimeDay": "18.68%",
+    "uptimeDay": "18.72%",
     "uptimeWeek": "18.88%",
-    "uptimeMonth": "25.75%",
+    "uptimeMonth": "25.70%",
     "uptimeYear": "93.81%",
     "time": 147,
-    "timeDay": 55,
-    "timeWeek": 122,
-    "timeMonth": 149,
+    "timeDay": 99,
+    "timeWeek": 131,
+    "timeMonth": 152,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2026-07-18": 674,
@@ -718,7 +718,7 @@
       "2026-08-13": 1063,
       "2026-08-14": 1364,
       "2026-08-15": 1237,
-      "2026-08-16": 856
+      "2026-08-16": 877
     }
   },
   {
