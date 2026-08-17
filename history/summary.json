@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "46.64%",
+    "uptime": "46.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -164,7 +164,7 @@
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
-      "2026-08-17": 717,
+      "2026-08-17": 805,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -500,17 +500,17 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "53.57%",
-    "uptimeWeek": "75.43%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "56.29%",
+    "uptimeWeek": "75.42%",
+    "uptimeMonth": "94.34%",
     "uptimeYear": "99.00%",
     "time": 833,
     "timeDay": 523,
-    "timeWeek": 618,
-    "timeMonth": 728,
-    "timeYear": 850,
+    "timeWeek": 615,
+    "timeMonth": 725,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2026-04-28": 1131,
       "2026-04-27": 1440,
@@ -519,7 +519,7 @@
       "2026-08-14": 734,
       "2026-08-15": 699,
       "2026-08-16": 588,
-      "2026-08-17": 368
+      "2026-08-17": 369
     }
   },
   {
@@ -681,9 +681,9 @@
     "status": "down",
     "uptime": "97.11%",
     "uptimeDay": "19.58%",
-    "uptimeWeek": "20.03%",
-    "uptimeMonth": "26.48%",
-    "uptimeYear": "93.87%",
+    "uptimeWeek": "19.16%",
+    "uptimeMonth": "26.28%",
+    "uptimeYear": "93.86%",
     "time": 148,
     "timeDay": 209,
     "timeWeek": 132,
@@ -719,7 +719,7 @@
       "2026-08-14": 1364,
       "2026-08-15": 1237,
       "2026-08-16": 1169,
-      "2026-08-17": 629
+      "2026-08-17": 717
     }
   },
   {
