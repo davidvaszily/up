@@ -13,7 +13,7 @@
     "time": 302,
     "timeDay": 720,
     "timeWeek": 773,
-    "timeMonth": 454,
+    "timeMonth": 457,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-12-05": 19,
@@ -34,7 +34,7 @@
     "time": 730,
     "timeDay": 550,
     "timeWeek": 493,
-    "timeMonth": 456,
+    "timeMonth": 439,
     "timeYear": 753,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 183,
     "timeDay": 380,
     "timeWeek": 387,
-    "timeMonth": 257,
+    "timeMonth": 255,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -164,8 +164,8 @@
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
-      "2025-08-17": 1440,
-      "2026-08-16": 1419,
+      "2026-08-17": 42,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -454,7 +454,7 @@
     "time": 688,
     "timeDay": 2042,
     "timeWeek": 1465,
-    "timeMonth": 1173,
+    "timeMonth": 1193,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2025-08-19": 19,
@@ -500,17 +500,17 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "57.59%",
-    "uptimeWeek": "78.94%",
-    "uptimeMonth": "95.15%",
+    "uptimeDay": "61.98%",
+    "uptimeWeek": "79.08%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "99.07%",
-    "time": 836,
-    "timeDay": 517,
-    "timeWeek": 627,
-    "timeMonth": 744,
-    "timeYear": 856,
+    "time": 835,
+    "timeDay": 507,
+    "timeWeek": 621,
+    "timeMonth": 736,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2026-04-28": 1131,
       "2026-04-27": 1440,
@@ -518,7 +518,8 @@
       "2026-08-13": 89,
       "2026-08-14": 734,
       "2026-08-15": 699,
-      "2026-08-16": 603
+      "2026-08-16": 588,
+      "2026-08-17": 0
     }
   },
   {
@@ -535,7 +536,7 @@
     "time": 466,
     "timeDay": 563,
     "timeWeek": 637,
-    "timeMonth": 578,
+    "timeMonth": 581,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2026-01-08": 29
@@ -580,7 +581,7 @@
     "time": 575,
     "timeDay": 704,
     "timeWeek": 603,
-    "timeMonth": 706,
+    "timeMonth": 715,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-08-19": 26,
@@ -653,7 +654,7 @@
     "time": 549,
     "timeDay": 790,
     "timeWeek": 735,
-    "timeMonth": 637,
+    "timeMonth": 631,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2025-09-18": 20,
@@ -678,13 +679,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
     "status": "down",
-    "uptime": "97.10%",
-    "uptimeDay": "20.14%",
+    "uptime": "97.09%",
+    "uptimeDay": "18.83%",
     "uptimeWeek": "19.55%",
-    "uptimeMonth": "26.14%",
-    "uptimeYear": "93.84%",
+    "uptimeMonth": "26.00%",
+    "uptimeYear": "93.83%",
     "time": 148,
-    "timeDay": 179,
+    "timeDay": 189,
     "timeWeek": 131,
     "timeMonth": 156,
     "timeYear": 143,
@@ -718,7 +719,8 @@
       "2026-08-13": 1063,
       "2026-08-14": 1364,
       "2026-08-15": 1237,
-      "2026-08-16": 1149
+      "2026-08-16": 1169,
+      "2026-08-17": 42
     }
   },
   {
@@ -735,7 +737,7 @@
     "time": 640,
     "timeDay": 1111,
     "timeWeek": 601,
-    "timeMonth": 454,
+    "timeMonth": 449,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2025-12-23": 31,
