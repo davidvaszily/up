@@ -1,7 +1,7 @@
 url: https://www.ebay.co.uk
-status: up
-code: 200
-responseTime: 735
-lastUpdated: 2026-08-18T17:14:14.972Z
+status: down
+code: 403
+responseTime: 50
+lastUpdated: 2026-08-18T19:58:18.676Z
 startTime: 2024-07-03T09:15:40.803Z
 generator: Upptime <https://github.com/upptime/upptime>
