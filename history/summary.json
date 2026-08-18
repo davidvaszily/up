@@ -13,7 +13,7 @@
     "time": 302,
     "timeDay": 768,
     "timeWeek": 780,
-    "timeMonth": 466,
+    "timeMonth": 472,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-12-05": 19,
@@ -34,7 +34,7 @@
     "time": 731,
     "timeDay": 911,
     "timeWeek": 543,
-    "timeMonth": 453,
+    "timeMonth": 439,
     "timeYear": 751,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 184,
     "timeDay": 268,
     "timeWeek": 402,
-    "timeMonth": 255,
+    "timeMonth": 257,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -70,7 +70,7 @@
     "time": 583,
     "timeDay": 51,
     "timeWeek": 61,
-    "timeMonth": 42,
+    "timeMonth": 43,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2025-11-16": 1405,
@@ -163,8 +163,8 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2026-08-17": 1429,
+      "2026-08-18": 2,
+      "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -454,7 +454,7 @@
     "time": 688,
     "timeDay": 437,
     "timeWeek": 1156,
-    "timeMonth": 1175,
+    "timeMonth": 1200,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2025-08-19": 19,
@@ -500,14 +500,14 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "54.17%",
-    "uptimeWeek": "72.53%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "53.29%",
+    "uptimeWeek": "72.41%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "98.94%",
     "time": 845,
-    "timeDay": 953,
+    "timeDay": 942,
     "timeWeek": 682,
     "timeMonth": 773,
     "timeYear": 860,
@@ -519,7 +519,8 @@
       "2026-08-14": 734,
       "2026-08-15": 699,
       "2026-08-16": 588,
-      "2026-08-17": 659
+      "2026-08-17": 671,
+      "2026-08-18": 2
     }
   },
   {
@@ -536,7 +537,7 @@
     "time": 467,
     "timeDay": 437,
     "timeWeek": 558,
-    "timeMonth": 577,
+    "timeMonth": 579,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2026-01-08": 29
@@ -556,7 +557,7 @@
     "time": 127,
     "timeDay": 117,
     "timeWeek": 121,
-    "timeMonth": 95,
+    "timeMonth": 96,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-11-24": 18,
@@ -581,7 +582,7 @@
     "time": 575,
     "timeDay": 385,
     "timeWeek": 601,
-    "timeMonth": 704,
+    "timeMonth": 714,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-08-19": 26,
@@ -654,7 +655,7 @@
     "time": 550,
     "timeDay": 817,
     "timeWeek": 758,
-    "timeMonth": 637,
+    "timeMonth": 642,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2025-09-18": 20,
@@ -682,12 +683,12 @@
     "uptime": "97.20%",
     "uptimeDay": "19.25%",
     "uptimeWeek": "18.07%",
-    "uptimeMonth": "28.73%",
+    "uptimeMonth": "28.70%",
     "uptimeYear": "94.06%",
     "time": 147,
     "timeDay": 138,
     "timeWeek": 139,
-    "timeMonth": 157,
+    "timeMonth": 158,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2026-07-20": 101,
@@ -718,7 +719,8 @@
       "2026-08-14": 1364,
       "2026-08-15": 1237,
       "2026-08-16": 1169,
-      "2026-08-17": 1152
+      "2026-08-17": 1163,
+      "2026-08-18": 2
     }
   },
   {
@@ -735,7 +737,7 @@
     "time": 639,
     "timeDay": 396,
     "timeWeek": 604,
-    "timeMonth": 447,
+    "timeMonth": 453,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2025-12-23": 31,
