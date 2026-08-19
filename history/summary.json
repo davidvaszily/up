@@ -162,7 +162,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2026-08-19": 236,
+      "2026-08-19": 271,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -503,9 +503,9 @@
     "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "59.86%",
-    "uptimeWeek": "66.07%",
-    "uptimeMonth": "92.19%",
-    "uptimeYear": "98.82%",
+    "uptimeWeek": "65.72%",
+    "uptimeMonth": "92.11%",
+    "uptimeYear": "98.81%",
     "time": 839,
     "timeDay": 494,
     "timeWeek": 645,
@@ -521,7 +521,7 @@
       "2026-08-16": 588,
       "2026-08-17": 659,
       "2026-08-18": 652,
-      "2026-08-19": 0
+      "2026-08-19": 36
     }
   },
   {
@@ -679,20 +679,20 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "up",
+    "status": "down",
     "uptime": "97.12%",
-    "uptimeDay": "13.46%",
-    "uptimeWeek": "16.82%",
-    "uptimeMonth": "26.44%",
-    "uptimeYear": "93.87%",
+    "uptimeDay": "15.86%",
+    "uptimeWeek": "17.17%",
+    "uptimeMonth": "26.58%",
+    "uptimeYear": "93.88%",
     "time": 148,
-    "timeDay": 163,
-    "timeWeek": 143,
-    "timeMonth": 158,
+    "timeDay": 154,
+    "timeWeek": 142,
+    "timeMonth": 157,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-07-21": 63,
       "2026-07-22": 723,
+      "2026-07-21": 1,
       "2026-07-23": 883,
       "2026-07-24": 1363,
       "2026-07-25": 1177,
@@ -720,7 +720,7 @@
       "2026-08-16": 1169,
       "2026-08-17": 1163,
       "2026-08-18": 1296,
-      "2026-08-19": 188
+      "2026-08-19": 189
     }
   },
   {
