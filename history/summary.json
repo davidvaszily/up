@@ -13,7 +13,7 @@
     "time": 303,
     "timeDay": 645,
     "timeWeek": 775,
-    "timeMonth": 477,
+    "timeMonth": 483,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-12-05": 19,
@@ -34,7 +34,7 @@
     "time": 730,
     "timeDay": 310,
     "timeWeek": 539,
-    "timeMonth": 435,
+    "timeMonth": 418,
     "timeYear": 749,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 184,
     "timeDay": 141,
     "timeWeek": 344,
-    "timeMonth": 253,
+    "timeMonth": 256,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diy.com.ico",
     "slug": "b-and-q",
     "status": "down",
-    "uptime": "46.55%",
+    "uptime": "46.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -162,8 +162,8 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2026-08-18": 1435,
+      "2026-08-19": 96,
+      "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -446,7 +446,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "96.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "57.56%",
@@ -454,10 +454,9 @@
     "time": 688,
     "timeDay": 178,
     "timeWeek": 615,
-    "timeMonth": 1130,
+    "timeMonth": 1148,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-08-19": 19,
       "2025-08-20": 78,
       "2025-08-22": 53,
       "2025-08-25": 36,
@@ -508,9 +507,9 @@
     "uptimeMonth": "92.19%",
     "uptimeYear": "98.82%",
     "time": 840,
-    "timeDay": 500,
+    "timeDay": 489,
     "timeWeek": 649,
-    "timeMonth": 736,
+    "timeMonth": 734,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2026-04-28": 1131,
@@ -538,7 +537,7 @@
     "time": 466,
     "timeDay": 409,
     "timeWeek": 534,
-    "timeMonth": 574,
+    "timeMonth": 544,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2026-01-08": 29
@@ -558,7 +557,7 @@
     "time": 127,
     "timeDay": 124,
     "timeWeek": 126,
-    "timeMonth": 97,
+    "timeMonth": 96,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-11-24": 18,
@@ -583,10 +582,9 @@
     "time": 575,
     "timeDay": 354,
     "timeWeek": 566,
-    "timeMonth": 702,
+    "timeMonth": 710,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-08-19": 26,
       "2025-09-03": 23,
       "2025-09-08": 38,
       "2025-09-21": 36,
@@ -656,7 +654,7 @@
     "time": 550,
     "timeDay": 586,
     "timeWeek": 683,
-    "timeMonth": 641,
+    "timeMonth": 644,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2025-09-18": 20,
@@ -681,15 +679,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
     "status": "down",
-    "uptime": "97.14%",
+    "uptime": "97.13%",
     "uptimeDay": "10.11%",
     "uptimeWeek": "16.35%",
-    "uptimeMonth": "26.88%",
-    "uptimeYear": "93.91%",
+    "uptimeMonth": "26.65%",
+    "uptimeYear": "93.89%",
     "time": 148,
     "timeDay": 162,
     "timeWeek": 143,
-    "timeMonth": 157,
+    "timeMonth": 158,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2026-07-21": 63,
@@ -720,7 +718,8 @@
       "2026-08-15": 1237,
       "2026-08-16": 1169,
       "2026-08-17": 1163,
-      "2026-08-18": 1291
+      "2026-08-18": 1296,
+      "2026-08-19": 96
     }
   },
   {
@@ -737,7 +736,7 @@
     "time": 640,
     "timeDay": 535,
     "timeWeek": 617,
-    "timeMonth": 456,
+    "timeMonth": 459,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2025-12-23": 31,
