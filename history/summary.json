@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 304,
     "timeDay": 632,
-    "timeWeek": 757,
+    "timeWeek": 766,
     "timeMonth": 487,
     "timeYear": 307,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 729,
     "timeDay": 277,
-    "timeWeek": 506,
+    "timeWeek": 547,
     "timeMonth": 413,
     "timeYear": 748,
     "dailyMinutesDown": {}
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 230,
-    "timeWeek": 330,
+    "timeWeek": 304,
     "timeMonth": 256,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -69,7 +69,7 @@
     "uptimeYear": "0.01%",
     "time": 579,
     "timeDay": 18,
-    "timeWeek": 60,
+    "timeWeek": 65,
     "timeMonth": 43,
     "timeYear": 382,
     "dailyMinutesDown": {
@@ -162,7 +162,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2026-08-19": 1411,
+      "2026-08-19": 1430,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -449,11 +449,11 @@
     "uptime": "97.73%",
     "uptimeDay": "98.80%",
     "uptimeWeek": "99.26%",
-    "uptimeMonth": "57.53%",
+    "uptimeMonth": "57.57%",
     "uptimeYear": "95.93%",
     "time": 688,
     "timeDay": 184,
-    "timeWeek": 516,
+    "timeWeek": 527,
     "timeMonth": 1107,
     "timeYear": 723,
     "dailyMinutesDown": {
@@ -501,17 +501,17 @@
     "url": "https://www.ebay.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.ebay.co.uk.ico",
     "slug": "e-bay-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "59.18%",
+    "uptimeDay": "60.10%",
     "uptimeWeek": "60.42%",
     "uptimeMonth": "90.89%",
     "uptimeYear": "98.71%",
-    "time": 815,
+    "time": 814,
     "timeDay": 547,
-    "timeWeek": 636,
-    "timeMonth": 714,
-    "timeYear": 833,
+    "timeWeek": 630,
+    "timeMonth": 710,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2026-04-28": 1131,
       "2026-04-27": 1440,
@@ -538,7 +538,7 @@
     "uptimeYear": "99.99%",
     "time": 467,
     "timeDay": 406,
-    "timeWeek": 518,
+    "timeWeek": 557,
     "timeMonth": 539,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -558,7 +558,7 @@
     "uptimeYear": "99.95%",
     "time": 127,
     "timeDay": 168,
-    "timeWeek": 130,
+    "timeWeek": 136,
     "timeMonth": 98,
     "timeYear": 132,
     "dailyMinutesDown": {
@@ -583,7 +583,7 @@
     "uptimeYear": "99.39%",
     "time": 574,
     "timeDay": 315,
-    "timeWeek": 534,
+    "timeWeek": 510,
     "timeMonth": 698,
     "timeYear": 550,
     "dailyMinutesDown": {
@@ -655,7 +655,7 @@
     "uptimeYear": "99.77%",
     "time": 550,
     "timeDay": 692,
-    "timeWeek": 684,
+    "timeWeek": 701,
     "timeMonth": 645,
     "timeYear": 571,
     "dailyMinutesDown": {
@@ -684,11 +684,11 @@
     "uptime": "97.16%",
     "uptimeDay": "20.59%",
     "uptimeWeek": "16.34%",
-    "uptimeMonth": "27.33%",
+    "uptimeMonth": "27.28%",
     "uptimeYear": "93.94%",
     "time": 147,
     "timeDay": 88,
-    "timeWeek": 126,
+    "timeWeek": 127,
     "timeMonth": 151,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -719,7 +719,7 @@
       "2026-08-16": 1169,
       "2026-08-17": 1163,
       "2026-08-18": 1296,
-      "2026-08-19": 1115
+      "2026-08-19": 1134
     }
   },
   {
@@ -735,7 +735,7 @@
     "uptimeYear": "99.99%",
     "time": 639,
     "timeDay": 323,
-    "timeWeek": 580,
+    "timeWeek": 454,
     "timeMonth": 454,
     "timeYear": 632,
     "dailyMinutesDown": {
