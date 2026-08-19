@@ -162,7 +162,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2026-08-19": 1365,
+      "2026-08-19": 1382,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -445,17 +445,17 @@
     "url": "https://www.debenhams.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
-    "status": "down",
+    "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "57.56%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "57.52%",
     "uptimeYear": "95.93%",
     "time": 688,
-    "timeDay": 184,
-    "timeWeek": 568,
-    "timeMonth": 1124,
-    "timeYear": 723,
+    "timeDay": 217,
+    "timeWeek": 544,
+    "timeMonth": 1105,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-08-20": 78,
       "2025-08-22": 53,
@@ -493,7 +493,7 @@
       "2026-08-06": 152,
       "2026-08-08": 54,
       "2026-08-18": 58,
-      "2026-08-19": 1
+      "2026-08-19": 17
     }
   },
   {
@@ -504,8 +504,8 @@
     "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "60.37%",
-    "uptimeWeek": "60.87%",
-    "uptimeMonth": "91.00%",
+    "uptimeWeek": "60.70%",
+    "uptimeMonth": "90.96%",
     "uptimeYear": "98.72%",
     "time": 817,
     "timeDay": 598,
@@ -522,7 +522,7 @@
       "2026-08-16": 588,
       "2026-08-17": 659,
       "2026-08-18": 652,
-      "2026-08-19": 524
+      "2026-08-19": 541
     }
   },
   {
@@ -680,15 +680,15 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
+    "status": "up",
     "uptime": "97.11%",
-    "uptimeDay": "18.86%",
-    "uptimeWeek": "16.09%",
-    "uptimeMonth": "26.20%",
+    "uptimeDay": "18.89%",
+    "uptimeWeek": "16.10%",
+    "uptimeMonth": "26.16%",
     "uptimeYear": "93.85%",
     "time": 147,
-    "timeDay": 94,
-    "timeWeek": 128,
+    "timeDay": 91,
+    "timeWeek": 127,
     "timeMonth": 152,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -719,7 +719,7 @@
       "2026-08-16": 1169,
       "2026-08-17": 1163,
       "2026-08-18": 1296,
-      "2026-08-19": 1094
+      "2026-08-19": 1111
     }
   },
   {
