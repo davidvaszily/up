@@ -160,7 +160,7 @@
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
-      "2026-08-21": 196,
+      "2026-08-21": 244,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -445,17 +445,17 @@
     "url": "https://www.debenhams.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.debenhams.com.ico",
     "slug": "debenhams",
-    "status": "down",
+    "status": "up",
     "uptime": "97.73%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "61.33%",
-    "uptimeYear": "95.95%",
+    "uptimeYear": "95.94%",
     "time": 680,
-    "timeDay": 124,
-    "timeWeek": 479,
-    "timeMonth": 725,
-    "timeYear": 726,
+    "timeDay": 180,
+    "timeWeek": 465,
+    "timeMonth": 715,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2025-08-22": 53,
       "2025-08-25": 36,
@@ -493,7 +493,7 @@
       "2026-08-08": 54,
       "2026-08-18": 58,
       "2026-08-19": 17,
-      "2026-08-21": 1
+      "2026-08-21": 48
     }
   },
   {
@@ -503,12 +503,12 @@
     "slug": "e-bay-uk",
     "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "50.75%",
+    "uptimeDay": "48.71%",
     "uptimeWeek": "52.61%",
-    "uptimeMonth": "88.80%",
-    "uptimeYear": "98.54%",
+    "uptimeMonth": "88.69%",
+    "uptimeYear": "98.53%",
     "time": 808,
-    "timeDay": 457,
+    "timeDay": 429,
     "timeWeek": 615,
     "timeMonth": 683,
     "timeYear": 819,
@@ -524,7 +524,7 @@
       "2026-08-18": 652,
       "2026-08-19": 579,
       "2026-08-20": 710,
-      "2026-08-21": 196
+      "2026-08-21": 244
     }
   },
   {
@@ -682,16 +682,16 @@
     "url": "https://www.robertdyas.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.robertdyas.co.uk.ico",
     "slug": "robert-dyas",
-    "status": "down",
-    "uptime": "97.30%",
-    "uptimeDay": "14.73%",
-    "uptimeWeek": "14.93%",
-    "uptimeMonth": "30.82%",
-    "uptimeYear": "94.23%",
+    "status": "up",
+    "uptime": "97.29%",
+    "uptimeDay": "13.49%",
+    "uptimeWeek": "14.94%",
+    "uptimeMonth": "30.71%",
+    "uptimeYear": "94.22%",
     "time": 147,
-    "timeDay": 163,
-    "timeWeek": 131,
-    "timeMonth": 151,
+    "timeDay": 184,
+    "timeWeek": 135,
+    "timeMonth": 152,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2026-07-26": 986,
@@ -720,7 +720,7 @@
       "2026-08-18": 1296,
       "2026-08-19": 1144,
       "2026-08-20": 1267,
-      "2026-08-21": 133
+      "2026-08-21": 180
     }
   },
   {
